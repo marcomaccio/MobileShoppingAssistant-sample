@@ -1,0 +1,18 @@
+# IDE working files
+*.iws
+*.ipr
+*.iml
+.idea/
+.settings
+.project
+.classpath
+.gradle/
+local.properties
+
+# Build directories
+distrib/
+target/
+build/
+
+# OS generated files
+.DS_Store*
